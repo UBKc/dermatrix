@@ -1,0 +1,8 @@
+__pycache__/
+veri/
+modeller/
+*.keras
+*.h5
+*.pt
+sonuclar/*.npy
+gradcam_sonuc.png

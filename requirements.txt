@@ -1,0 +1,8 @@
+tensorflow>=2.15
+scikit-learn
+scikit-posthocs
+scipy
+pandas
+matplotlib
+flask
+pillow
